@@ -1,0 +1,3 @@
+include ':commonktx'
+include ':app'
+rootProject.name = "CommonKTXExample"
